@@ -4,7 +4,8 @@ title = "Twenty Twenty Hugo for Forestry"
 languageName = "En"
 languageCode = "en-us"
 
-theme = "github.com/themefisher/twenty-twenty-hugo"
+#theme = "github.com/themefisher/twenty-twenty-hugo"
+theme = "github.com/okkur/syna"
 # post pagination
 paginate = "6"
 # post excerpt
